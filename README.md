@@ -51,10 +51,6 @@
   <a href="https://www.instagram.com/ezequielrc14/" target="_blank">
     <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  
-  <a href="https://github.com/DevEzequiel14" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
 <p> 
 
 <br>
